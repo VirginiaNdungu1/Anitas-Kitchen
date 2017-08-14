@@ -1,0 +1,56 @@
+
+.landing{
+  background-image: url("../assets/backgrounds/landing.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top:100px;
+  padding-bottom: 70px;
+  color: white;
+}
+.header{
+  text-align: center;
+}
+.happy-hour{
+  background-color: white;
+  text-align: center;
+  color: red;
+  border: 1px;
+  padding-top: 11px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+.party-time{
+  background-color: #F15A29;
+  text-align: center;
+  color: white;
+  border: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.breakfast{
+  text-align: center;
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  border: 1px;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  color: white;
+}
+.lunch{
+  text-align: center;
+  background-image: url("../assets/foodtop/lunch.jpg");
+  border: 1px;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  margin-left: 1px;
+  color: white;
+}
+.dinner{
+  text-align: center;
+  background-image: url("../assets/foodtop/dinner.jpg");
+  border: 1px;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  margin-left: 1px;
+  color: white;
+}
