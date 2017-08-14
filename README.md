@@ -6,6 +6,6 @@ Let's look at Anita's Kitchen. The new place in town. Great Food! Beautiful Peop
 
 Setup/Installation Requirements
 
-Click the link [Anita's Kitchen] (https://virginiandungu1.github.io/Anitas-Kitchen/)
+Click the link [Anita's Kitchen](https://virginiandungu1.github.io/Anitas-Kitchen/)
 
 Copyright (c) {2017} Virginia Ndung'u
